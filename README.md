@@ -1,29 +1,33 @@
 # Apple-Haptics-PMFlow
-# Haptics-PM-Case
 
-This solo project simulates the product rollout of Apple’s Core Haptics feature for enhancing user experience in action and horror media. Built from a project manager’s lens, it follows a 4-sprint Agile timeline, integrating structured documentation, KPI tracking, and risk planning.
-
-## Project Timeline (4 Weeks / 4 Sprints)
-- **Sprint 1**: Market Research, Project Charter, SRS Draft  
-- **Sprint 2**: Wireframes, Stakeholder Mapping, Risk Identification  
-- **Sprint 3**: KPI Planning, User Persona, Jira Backlog Setup  
-- **Sprint 4**: UAT Survey Plan, Final Case Study, Documentation Review  
-
-## Tools & Platforms Used
-- **Jira** – Sprint tracking, backlog grooming  
-- **GitHub** – Project repository & version control  
-- **Confluence/Notion** – Documentation and roadmap  
-- **Excel** – KPI planning and operational metrics  
-- **Trello/Slack** – Workflow simulation and stakeholder sync  
-
-## Deliverables
-- Software Requirements Specification (SRS)  
-- Risk & Change Logs  
-- Stakeholder Map  
-- User Persona & UAT Plan  
-- Final Case Study Report
-
-## Objective
-To explore and simulate how project managers can plan and manage a feature integration like Apple’s Core Haptics—focused on OTT viewer experience and India-specific engagement metrics.
+This solo project simulates the product rollout of Apple’s Core Haptics feature for enhancing user experience in action, horror, and animated media on Apple TV. Built from a project manager’s lens, it follows a 4-sprint Agile timeline, integrating structured documentation, KPI tracking, stakeholder alignment, and risk planning.
 
 ---
+
+##  Objective
+
+To explore and simulate how project managers can plan and manage a feature integration like Apple’s Core Haptics—focused on OTT viewer experience and India-specific engagement metrics. The goal is to increase viewer engagement by 30–50% and promote Apple TV trials in India.
+
+---
+
+##  Project Timeline (4 Sprints over 4 Weeks)
+
+- **Sprint 1**: Problem Statement, Objective-Goal PDFs, SRS Draft, Stakeholder Mapping, WBS Creation  
+- **Sprint 2**: Risk Planning, User Persona, Figma Visuals, Haptic Toggle Settings  
+- **Sprint 3**: KPI Planning, Sprint Backlog, Role Mapping (PM, QA, Dev)  
+- **Sprint 4**: UAT Survey Plan, Final Review, GitHub Organization, Case Study Compilation
+
+---
+
+## Tools & Platforms Used
+
+- **GitHub** – Repository & file hosting  
+- **Word/Canva/Figma** – Documentation and visual diagrams  
+- **Excel/Sheets** – KPI Sheet, Sprint timeline, UAT responses  
+- **Notion or Trello** – (Alternative to Jira) Sprint Simulation  
+- **ChatGPT** – AI Assistant to simulate execution roles (PM, QA, Dev)
+
+---
+
+
+
