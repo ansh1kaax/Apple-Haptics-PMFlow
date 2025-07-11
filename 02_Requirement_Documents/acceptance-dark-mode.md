@@ -1,4 +1,4 @@
-# Acceptance Criteria – Dark Mode Feature
+# Acceptance Criteria – Dark Mode Feature -draft v1
 
 ## Functionality
 - The user can manually toggle between light and dark mode via a switch on the settings or home screen.
